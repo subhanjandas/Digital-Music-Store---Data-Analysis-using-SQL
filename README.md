@@ -1,6 +1,21 @@
 # Data Analysis for Digital Music Store using SQL
 
-Data Analysis project to help **Chinook Digital Music Store** to help how they can optimize their business opportunities and to help answering business related questions.
+The Data Analysis project for Chinook Digital Music Store aimed to assist the company in identifying and optimizing business opportunities by analyzing data stored in a PostgreSQL database. The project used SQL queries to extract relevant information from the database and analyze it to answer various business-related questions.
+
+The first step in the project was to connect to the Chinook database and extract relevant data. This included information on customers, invoices, tracks, and album sales. The data was then cleaned and organized to prepare it for analysis.
+
+Once the data was prepared, the project moved on to analyzing the data to answer various business-related questions. This included questions such as:
+
+What are the top-selling genres?
+Who are the top-selling artists?
+Which countries have the most customers?
+What is the average value of an invoice?
+What is the total value of sales by country?
+To answer these questions, the project used SQL queries to extract relevant information from the database and then used data visualization techniques to present the results in an easy-to-understand format.
+
+The project also included a section on data modeling, where the database was optimized to improve performance and make it more efficient. This included creating indexes, normalizing tables, and optimizing queries.
+
+Overall, the Data Analysis project for Chinook Digital Music Store provided valuable insights into the company's sales and customer data, helping the company to optimize their business opportunities and make more informed decisions.
 
 ## Database and Tools
 + PostgreSQL
