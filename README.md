@@ -6,12 +6,12 @@ The first step in the project was to connect to the Chinook database and extract
 
 Once the data was prepared, the project moved on to analyzing the data to answer various business-related questions. This included questions such as:
 
-What are the top-selling genres?
-Who are the top-selling artists?
-Which countries have the most customers?
-What is the average value of an invoice?
-What is the total value of sales by country?
-To answer these questions, the project used SQL queries to extract relevant information from the database and then used data visualization techniques to present the results in an easy-to-understand format.
+- What are the top-selling genres?
+- Who are the top-selling artists?
+- Which countries have the most customers?
+- What is the average value of an invoice?
+- What is the total value of sales by country?
+- To answer these questions, the project used SQL queries to extract relevant information from the database and then used data visualization techniques to present the results in an easy-to-understand format.
 
 The project also included a section on data modeling, where the database was optimized to improve performance and make it more efficient. This included creating indexes, normalizing tables, and optimizing queries.
 
